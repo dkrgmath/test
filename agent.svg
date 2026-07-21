@@ -1,0 +1,51 @@
+<svg width="680" height="680" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="round3"><rect x="0" y="0" width="680" height="680" rx="24"/></clipPath>
+<linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#1c1a17"/>
+<stop offset="100%" stop-color="#2b2620"/>
+</linearGradient>
+</defs>
+<g clip-path="url(#round3)">
+<rect x="0" y="0" width="680" height="680" fill="url(#bg3)"/>
+
+<g fill="#D7C29D" opacity="0.9">
+<polygon points="340,330 190,410 490,410"/>
+<rect x="196" y="410" width="288" height="14"/>
+<rect x="212" y="432" width="26" height="150"/>
+<rect x="262" y="432" width="26" height="150"/>
+<rect x="312" y="432" width="26" height="150"/>
+<rect x="362" y="432" width="26" height="150"/>
+<rect x="412" y="432" width="26" height="150"/>
+<rect x="196" y="582" width="288" height="16"/>
+<rect x="176" y="598" width="328" height="14"/>
+</g>
+
+<line x1="120" y1="612" x2="560" y2="612" stroke="#D7C29D" stroke-width="2" opacity="0.6"/>
+
+<line x1="340" y1="272" x2="340" y2="330" stroke="#D7C29D" stroke-width="2.5" opacity="0.8"/>
+<path d="M 340 278 h 46 l -10 12 l 10 12 h -46 z" fill="#D7C29D" opacity="0.8"/>
+
+<g stroke="#f5efe4" stroke-width="2" fill="none" opacity="0.8">
+<path d="M 138 468 h 84 v 54 h -50 l -20 18 v -18 h -14 z"/>
+</g>
+<g fill="#f5efe4" opacity="0.65">
+<circle cx="163" cy="495" r="4"/>
+<circle cx="180" cy="495" r="4"/>
+<circle cx="197" cy="495" r="4"/>
+</g>
+
+<g stroke="#f5efe4" stroke-width="2" fill="none" opacity="0.8">
+<path d="M 542 468 h -84 v 54 h 50 l 20 18 v -18 h 14 z"/>
+</g>
+<g fill="#f5efe4" opacity="0.65">
+<circle cx="482" cy="495" r="4"/>
+<circle cx="499" cy="495" r="4"/>
+<circle cx="516" cy="495" r="4"/>
+</g>
+
+<text x="340" y="180" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#f5efe4" font-style="italic">Agent IA</text>
+<text x="340" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f5efe4" font-style="italic">Collectivité</text>
+<rect x="300" y="248" width="80" height="3" fill="#D7C29D"/>
+</g>
+</svg>
