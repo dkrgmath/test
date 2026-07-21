@@ -1,0 +1,15 @@
+{
+  id: "agent-ia-collectivite",
+  name: "Agent IA Collectivité",
+  subtitle: "Assistant intelligent pour le service public",
+  description: "Un agent conversationnel dédié aux collectivités territoriales, capable de répondre aux demandes des administrés et d'orienter vers les bons services, 24h/24.",
+  image: "/images/solutions/agent-ia-collectivite.svg",
+  color: "#D7C29D",
+  benefits: [
+    { value: "24/7", label: "disponible" },
+    { value: "RGPD", label: "compliant" },
+    { value: "Multi", label: "services" },
+  ],
+  comingSoon: true,
+  link: "",
+},
